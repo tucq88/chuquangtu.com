@@ -4,7 +4,7 @@ draft = false
 comments = false
 showpagemeta = false
 showcomments = false
-date = "2016-12-21T10:22:49+07:00"
+date = "2021-08-08T10:22:49+07:00"
 slug = ""
 tags = [
 ]
@@ -18,42 +18,20 @@ categories = [
 </figure>
 
 ## A lifelong learner
-I am a "mind-reading" full-stack web developer, a lifelong learner, a giver and an amateur comic
-artist. I have a great passion for web development and strong belief in the value of the combination
- of working hard and working smart. I believe that if we work hard in a smart-right-way, we could
- achieve more and better.
+I am a “mind-reading” builder/leader with entrepreneur mindset, a go-giving leader plus a life-long learner. I have great passion for Agile software development and firm belief in value from the combination of working hard and working smart.I believe that if we truly work hard in a smart-right-way, we could achieve far better results.
+
+"What we know is a drop of water. What we do not know is an ocean." is my favorite quote that I learned when I was 12 & still reminds me of being an everyday learner. I'm always looking forward to challenging myself for non-stop improving and advancing my professional.
 
 ## An ambitious developer
-With many years working in web industry as a professional consultant, I have experienced in many
-aspects of web development including consultant, design, development and project management or team
-leading. I see every day as a chance to learn new thing to fulfill my knowledge so I keep learning
-from everybody and everything that I could reach, and I primarily focus on:
+Starting with the web industry via various roles, I have experienced in not only many aspects of software development but also in multiple industries like e-commerce, prop-tech, insure-tech, blockchain & digital transformation. I see every day as a chance to learn new things to fulfill my knowledge, from everybody and everything that I could reach. My focus on development are not limited with Product & Engineering Team but also with People & Organisation.
 
-- **Agile development**: I believe that Agile will become one of the most important parts in software
-development. It's not only about delivering good quality software product but also how we could
-adapt real world problems better.
+Currently, I'm focusing on:
 
-- **Productivity improvement**: I always update myself with new technologies, new working methodologies
-then practicing them in my side-projects or freelancer ones. So I could find out what's working for
- me, what could help me improving my productivity and share them to everybody, even it's a tiny
- coding trick or a big change in mindset.
+- **Agile development**: I've first learned about Agile in 2012 via practising Scrum then since 2014, I've believed that Agility would become one of the essential aspects for the success of not just software development but also development of People, Teams & Organizations. It's not only about stable with outcomes-oriented but also how better we could navigate & adapt to real-world problems, in VUCA/TUNA era. As well said, "Agile is eating the world".
 
-- **Efficient human interaction**: I strongly believe that everybody could do great things with the
-right tools in the right way. So if we could collaborate & guide people efficiently, it would bring the
- huge impact to not only projects but also with company culture.
+- **Efficiency & Effectiveness**: I've obsessed with continuous improvement, therefore I always update myself with new technologies, a new way of working... then validating their practices in personal & professional. So-on, I could find out what's working for me & others around me, even it's a tiny coding trick, a new tool for noting, or a significant change in mindset.
 
-Beside of that, I'm also interested in many interesting topics, such as:
+- **People (or Individuals & Interactions)**: I have a strongly belief that everybody could do great things with the right tools in the right way. So if we could find a way to collaborate & guide people efficiently, then to help develop every one is better themselves, it would bring up better impact to not just individuals, but whole organization & anywhere those better ones be a part of it.
 
-- *Psychology* Reading or RnD about stuff that effect/related to Productivity, Reducing procrastinations.
-- *Human Development*: How to live a healthy life, maintain a good relationship, Self-improvement, Personal Branding.
-- *Products/Projects Management* with effectiveness, lean and smart.
-- All aspect of *software development* like Architecture design, Backend, Frontend, SysOps, Quality Assurance, UI/UX ...
-
-## A young entrepreneur
-"What we know is a drop of water. What we do not know is an ocean." is my favorite quote that I
-learned when I was 12. It always reminds me of being an everyday learner, and I'm always looking
-forward to challenging myself for non-stop improving and advancing my career.
-
-## And a simple man
-Above of all, I'm just a simple-happy-man who has a warm family with my beautiful wife and my lovely
-daughter. And my hobbies are pretty geeky: Gaming, Reading or playing around with Open-source projects
+## And after all, I'm just a simple guy
+After all, I'm just a simple-easy-to-please guy who has a warm family with my beautiful wife and my lovely kids. In my free time, you gonna see me gaming, reading or playing around with Open-source projects
