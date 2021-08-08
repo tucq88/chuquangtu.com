@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://chuquangtu.com/</loc>
-    <lastmod>2016-12-21T10:22:49+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chuquangtu.com/about/</loc>
-    <lastmod>2016-12-21T10:22:49+07:00</lastmod>
-  </url>
-  
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://chuquangtu.com/about/</loc><lastmod>2021-08-08T10:22:49+07:00</lastmod></url><url><loc>https://chuquangtu.com/categories/</loc></url><url><loc>https://chuquangtu.com/</loc></url><url><loc>https://chuquangtu.com/tags/</loc></url></urlset>
