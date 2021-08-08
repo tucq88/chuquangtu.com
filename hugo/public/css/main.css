@@ -92,7 +92,7 @@ div.content
     font-family: 'Crimson Text', serif;
     font-weight: 200;
     line-height: 1.4;
-    color: #bbb;
+    color: #777;
 }
 .error
 {
@@ -104,7 +104,7 @@ div.content
 {
     font-size: 80px;
 
-    color: #bbb;
+    color: #777;
 }
 .error p
 {
