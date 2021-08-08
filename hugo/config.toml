@@ -9,7 +9,7 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
-author = "Tu Chu Quang"
+author = "Tu Chu"
 title = "Hey there! Have a nice day"
 
 theme = "goa"
@@ -21,9 +21,9 @@ enableRobotsTXT = true
 
 ## Site Settings
 [params]
-author = "Tu, Chu Quang"
-intro = "Your geeky friend from Vietnam"
-description = "I am a mind-reading full-stack web developer, a lifelong learner, a giver and an amateur comic artist. I have a great passion for web development and strong belief in the value of the combination of working hard and working smart. I believe that if we work hard in a smart-right-way, we could achieve more and better."
+author = "Tu Chu"
+intro = "A curious geek from Vietnam"
+description = "I am a \"mind-reading\"  builder/leader with entrepreneur mindset, a go-giving leader plus a life-long learner. I have great passion for Agile software development and firm belief in value from the combination of working hard and working smart. \n \n \n Starting with the web industry via various roles, I have experienced in not only many aspects of software development but also in various industries like e-commerce, prop-tech, insure-tech & digital transformation. I see every day as a chance to learn new things to fulfill my knowledge, from everybody and everything that I could reach."
 authorimage = "avatar.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -41,7 +41,7 @@ twitter = "tucq88"
 
 ## Extras
 [params.extra]
-copyright = "© 2017. Tu Chu Quang"
+copyright = "© 2021 - Tu Chu"
 poweredby = true
 hightlightjs = false
 bootstrapjs = false
@@ -57,3 +57,8 @@ bootstrapjs = false
     identifier = "blog"
     weight = 200
     url = "https://medium.com/@tucq88"
+[[menu.main]]
+    name = "Chat"
+    identifier = "chat"
+    weight = 200
+    url = "https://calendly.com/tucq88/30min"
